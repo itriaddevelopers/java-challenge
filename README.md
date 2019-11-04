@@ -4,7 +4,7 @@ Este desafio tem como objetivo testar os seus conhecimentos de desenvolvedor ful
 
 # Parking lot
 
-![Parking lot](https://www.washingtonpost.com/resizer/672vefIv5qC5Kcf_fF2S9moPcek=/767x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OPLDLCJWUY457KLP3CL3QFRPQ4.gif)
+![Parking lot](https://www.fecomercio.com.br/upload/img/2016/07/12/5785589778eb2-estacionamento_projeto_de_lei_n_329_2013_2.jpg)
 
 Jacks e seu pai compraram um terreno e vão inaugurar um estacionamento.
 
@@ -21,7 +21,7 @@ Dias | Período | Valor/h
 :--------- | :------: | :------:
 Segunda - Sexta | 08:00 as 12:00 | R$ 2,00
 Segunda - Sexta | 12:01 as 18:00 |  R$ 3,00
-Sábado, domingo e feriados | 08:00 as 18:00 | R$ 2,50
+Sábado e domingo | 08:00 as 18:00 | R$ 2,50
 
 Os donos precisam de relatórios de faturamento por período. Não aceitar entrada de veiculos fora do horario da tabela de preços.
 
