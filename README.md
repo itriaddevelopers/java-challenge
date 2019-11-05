@@ -1,4 +1,4 @@
-# Java Challenge
+# Java Challenge - Full-Stack
 
 Este desafio tem como objetivo testar os seus conhecimentos de desenvolvedor fullstack e avaliar a sua forma de codificação e habilidades com as tecnologias propostas.
 
