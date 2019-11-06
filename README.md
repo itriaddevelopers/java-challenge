@@ -32,7 +32,7 @@ Os donos precisam de relatórios de faturamento por período. Não aceitar entra
 * No Frontend você deve desenvolver uma tela que gere o relatório de faturamento em um determinado periodo.
 
 # Instruções 
-* [Obrigatório] disponibilizar o link do github para: daniel.mendonca@itriad.org.br
+* [Obrigatório] disponibilizar o link do github para: desafio@itriad.org.br
 * [Obrigatório] readme.md conter as instruções para buildar e servir o aplicativo.
 * [Desejavel] que disponibilize o aplicativo na plataforma [Heroku](https://www.heroku.com)
 
@@ -55,4 +55,4 @@ Os donos precisam de relatórios de faturamento por período. Não aceitar entra
 * Organização e clareza nas ideias;
 * Menos é mais, seja prático e não perca tempo com aspectos desnecessários;
 
-Use o contato do Daniel (daniel.mendonca@itriad.org.br) para sanar qualquer dúvida.
+Use o contato do Daniel (alex.melo@itriad.org.br) para sanar qualquer dúvida.
