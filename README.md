@@ -55,4 +55,4 @@ Os donos precisam de relatórios de faturamento por período. Não aceitar entra
 * Organização e clareza nas ideias;
 * Menos é mais, seja prático e não perca tempo com aspectos desnecessários;
 
-Use o contato do Daniel (alex.melo@itriad.org.br) para sanar qualquer dúvida.
+Use o contato do Daniel (daniel.lins@itriad.org.br) para sanar qualquer dúvida.
